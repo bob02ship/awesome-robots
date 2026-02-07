@@ -1,10 +1,10 @@
 ---
 title: "Vision-Language-Action Models: How AI Robots Learn Physical Tasks"
 slug: "vision-language-action-models-robotics"
-date: 2026-02-04
-author: awesome-robots-team
-category: tutorials
-tags: [AI, machine learning, VLA models, embodied AI, robot learning, computer vision, natural language processing]
+date: "2026-02-04"
+author: "bob-jiang"
+category: "tutorials"
+tags: ["AI", "machine learning", "VLA models", "embodied AI", "robot learning", "computer vision", "natural language processing"]
 excerpt: "Vision-Language-Action (VLA) models enable robots to learn manipulation tasks from human instructions and visual feedback. Discover how this breakthrough AI architecture is transforming industrial automation, research robotics, and the path to general-purpose robots."
 featured: true
 published: true

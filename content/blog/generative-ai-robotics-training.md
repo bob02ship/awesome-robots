@@ -1,10 +1,10 @@
 ---
 title: "Generative AI in Robotics: How GenAI Creates Training Data and New Robot Skills"
 slug: "generative-ai-robotics-training"
-date: 2026-02-05
-author: awesome-robots-team
-category: tutorials
-tags: [generative AI, robot training, synthetic data, simulation, GenAI, autonomous learning, diffusion models, robot skill learning]
+date: "2026-02-05"
+author: "bob-jiang"
+category: "tutorials"
+tags: ["generative AI", "robot training", "synthetic data", "simulation", "GenAI", "autonomous learning", "diffusion models", "robot skill learning"]
 excerpt: "Generative AI is transforming robotics by autonomously creating training data through simulation and generating new robot skills without human demonstrations. Discover how diffusion models, synthetic data generation, and self-evolving systems are accelerating robot deployment across industries."
 featured: true
 published: true
