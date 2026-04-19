@@ -4,7 +4,7 @@ slug: "lerobot-diffusion-policy-pipeline"
 date: "2026-04-20"
 author: "bob-jiang"
 category: "tutorials"
-tags: ["LeRobot", "Diffusion Policy", "Robot Learning", "Imitation Learning", "Hugging Face", "Datasets", "Open Source", "Behavior Cloning"]
+tags: ["lerobot", "diffusion-policy", "robot-learning", "imitation-learning", "hugging-face", "robot-datasets", "open-source", "behavior-cloning"]
 excerpt: "A practical, end-to-end walkthrough of using Hugging Face LeRobot to collect data, train a diffusion-based manipulation policy, and deploy it safely on real hardware."
 featured: true
 published: true
